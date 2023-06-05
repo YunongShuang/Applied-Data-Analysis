@@ -1,5 +1,5 @@
 # Data-Science
-Imporant data science practices implemented using Matlab.
+Important data science practices implemented using Matlab.
 Topics inculde:
 1. Data manipulations
 2. Bayes Classifiers
